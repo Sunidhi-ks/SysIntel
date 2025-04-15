@@ -1,0 +1,2 @@
+usage: ass4.py [-h] --option {1,2,3,4,5}
+ass4.py: error: the following arguments are required: --option

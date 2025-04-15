@@ -1,0 +1,4 @@
+* * * * * /usr/bin/python3 /home/sunudhi/ass1.py >> /var/log/sysintel/ass1_stdout.log 2>> /var/log/sysintel/ass1_stderr.log
+* * * * * /usr/bin/python3 /home/sunudhi/ass2.py >> /var/log/sysintel/ass2_stdout.log 2>> /var/log/sysintel/ass2_stderr.log
+* * * * * /usr/bin/python3 /home/sunudhi/ass3.py >> /var/log/sysintel/ass3_stdout.log 2>> /var/log/sysintel/ass3_stderr.log
+* * * * * /usr/bin/python3 /home/sunudhi/ass4.py --option 4 >> /var/log/sysintel/ass4_stdout.log 2>> /var/log/sysintel/ass4_stderr.log
