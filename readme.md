@@ -1,6 +1,6 @@
-# SysIntel - System Intelligence CLI
+# SysIntel 
 
-A modular CLI tool for system monitoring, log inspection, and network intelligence.
+ Checks System monitoring, log inspection, and network intelligence.
 
 ## Features
 - Monitor CPU, Memory, Disk
